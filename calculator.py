@@ -1,7 +1,7 @@
 import tkinter as tk
 import customtkinter as ctk
 
-ctk.set_appearance_mode("Sysem")
+ctk.set_appearance_mode("System")
 ctk.set_default_color_theme("blue")
 small_display_font_style = ("Bookman Old Style", 15)
 large_display_font_style = ("Bookman Old Style", 45, "bold")
